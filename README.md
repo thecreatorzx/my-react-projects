@@ -1,6 +1,6 @@
 # Tic Tac Toe game
 
-![](./design/game-preview.jpg)
+![](./game-preview.jpg)
 
 ## Welcome! 👋
 
